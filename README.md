@@ -1,2 +1,2 @@
 # typescript
-aprendendo a usar o typescript. se viu algum problema pode comentar, Estou sempre atento.
+updating to use typescript. if you saw any problems you can comment, I'm always attentive.
